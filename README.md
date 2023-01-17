@@ -15,7 +15,6 @@ add a json file to your workspace under `.vscode/extensions.json`
       "michelemelluso.gitignore",
       "naumovs.color-highlight",
       "NuclleaR.vscode-extension-auto-import",
-      "sketchbuch.vsc-packages",
       "styled-components.vscode-styled-components",
       "vscode-icons-team.vscode-icons",
       "zaaack.markdown-editor",
